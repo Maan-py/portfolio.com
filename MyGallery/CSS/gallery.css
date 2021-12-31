@@ -123,7 +123,7 @@ h1 {
 }
 
 .next, .prev {
-    background-image: url(/MyGallery/Img/next.png);
+    background-image: url(/portfolio.com/MyGallery/Img/next.png);
     width: 198px;
     height: 197px;
     background-size: 100px;
@@ -144,7 +144,7 @@ h1 {
 }
 
 .prev {
-    background-image: url(/MyGallery/Img/previous.png);
+    background-image: url(/portfolio.com/MyGallery/Img/previous.png);
     margin-left: -150px;
 }
 
